@@ -1,0 +1,7 @@
+[package]
+name = "proxy_caching"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+async-std = "1.13.0"
